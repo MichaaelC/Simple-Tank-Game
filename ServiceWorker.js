@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Tank Game-0.10.0";
 const contentToCache = [
-    "Build/Battle City.loader.js",
-    "Build/Battle City.framework.js.br",
-    "Build/Battle City.data.br",
-    "Build/Battle City.wasm.br",
+    "Build/Simple-Tank-Game.loader.js",
+    "Build/Simple-Tank-Game.framework.js",
+    "Build/Simple-Tank-Game.data",
+    "Build/Simple-Tank-Game.wasm",
     "TemplateData/style.css"
 
 ];
